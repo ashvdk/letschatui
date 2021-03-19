@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/letschatui/static/css/main.eb83e224.chunk.css",
+    "main.js": "/letschatui/static/js/main.8e7fa6b0.chunk.js",
+    "main.js.map": "/letschatui/static/js/main.8e7fa6b0.chunk.js.map",
+    "runtime-main.js": "/letschatui/static/js/runtime-main.d2327368.js",
+    "runtime-main.js.map": "/letschatui/static/js/runtime-main.d2327368.js.map",
+    "static/js/2.03af0605.chunk.js": "/letschatui/static/js/2.03af0605.chunk.js",
+    "static/js/2.03af0605.chunk.js.map": "/letschatui/static/js/2.03af0605.chunk.js.map",
+    "index.html": "/letschatui/index.html",
+    "precache-manifest.9bdebd137b422dc5c8b22109071f566c.js": "/letschatui/precache-manifest.9bdebd137b422dc5c8b22109071f566c.js",
+    "service-worker.js": "/letschatui/service-worker.js",
+    "static/css/main.eb83e224.chunk.css.map": "/letschatui/static/css/main.eb83e224.chunk.css.map",
+    "static/js/2.03af0605.chunk.js.LICENSE.txt": "/letschatui/static/js/2.03af0605.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2327368.js",
+    "static/js/2.03af0605.chunk.js",
+    "static/css/main.eb83e224.chunk.css",
+    "static/js/main.8e7fa6b0.chunk.js"
+  ]
+}
